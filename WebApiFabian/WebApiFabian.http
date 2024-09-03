@@ -1,0 +1,6 @@
+@WebApiFabian_HostAddress = http://localhost:5073
+
+GET {{WebApiFabian_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

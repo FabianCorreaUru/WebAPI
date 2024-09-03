@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|c:\\users\\fcorrea\\source\\respaldo ultimo\\webapifabian\\webapifabian\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|solutionrelative:webapifabian\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|c:\\users\\fcorrea\\source\\respaldo ultimo\\webapifabian\\webapifabian\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|solutionrelative:webapifabian\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|c:\\users\\fcorrea\\source\\respaldo ultimo\\webapifabian\\webapifabian\\controllers\\autenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|solutionrelative:webapifabian\\controllers\\autenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|c:\\users\\fcorrea\\source\\respaldo ultimo\\webapifabian\\webapifabian\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|solutionrelative:webapifabian\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|c:\\users\\fcorrea\\source\\respaldo ultimo\\webapifabian\\webapifabian\\webapifabian.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|solutionrelative:webapifabian\\webapifabian.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0FE7A5-292E-44D0-8A0F-B12AF102BEA1}|FireBaseManager\\FireBaseManager.csproj|c:\\users\\fcorrea\\source\\respaldo ultimo\\webapifabian\\firebasemanager\\appfabian-e3b4a.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B0FE7A5-292E-44D0-8A0F-B12AF102BEA1}|FireBaseManager\\FireBaseManager.csproj|solutionrelative:firebasemanager\\appfabian-e3b4a.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0FE7A5-292E-44D0-8A0F-B12AF102BEA1}|FireBaseManager\\FireBaseManager.csproj|c:\\users\\fcorrea\\source\\respaldo ultimo\\webapifabian\\firebasemanager\\manager\\firebasenotificationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0FE7A5-292E-44D0-8A0F-B12AF102BEA1}|FireBaseManager\\FireBaseManager.csproj|solutionrelative:firebasemanager\\manager\\firebasenotificationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0FE7A5-292E-44D0-8A0F-B12AF102BEA1}|FireBaseManager\\FireBaseManager.csproj|c:\\users\\fcorrea\\source\\respaldo ultimo\\webapifabian\\firebasemanager\\firebasemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B0FE7A5-292E-44D0-8A0F-B12AF102BEA1}|FireBaseManager\\FireBaseManager.csproj|solutionrelative:firebasemanager\\firebasemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0FE7A5-292E-44D0-8A0F-B12AF102BEA1}|FireBaseManager\\FireBaseManager.csproj|c:\\users\\fcorrea\\source\\respaldo ultimo\\webapifabian\\firebasemanager\\manager\\ifirebasenotificationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0FE7A5-292E-44D0-8A0F-B12AF102BEA1}|FireBaseManager\\FireBaseManager.csproj|solutionrelative:firebasemanager\\manager\\ifirebasenotificationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0FE7A5-292E-44D0-8A0F-B12AF102BEA1}|FireBaseManager\\FireBaseManager.csproj|c:\\users\\fcorrea\\source\\respaldo ultimo\\webapifabian\\firebasemanager\\dto\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0FE7A5-292E-44D0-8A0F-B12AF102BEA1}|FireBaseManager\\FireBaseManager.csproj|solutionrelative:firebasemanager\\dto\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0FE7A5-292E-44D0-8A0F-B12AF102BEA1}|FireBaseManager\\FireBaseManager.csproj|c:\\users\\fcorrea\\source\\respaldo ultimo\\webapifabian\\firebasemanager\\dto\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0FE7A5-292E-44D0-8A0F-B12AF102BEA1}|FireBaseManager\\FireBaseManager.csproj|solutionrelative:firebasemanager\\dto\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|c:\\users\\fcorrea\\source\\respaldo ultimo\\webapifabian\\webapifabian\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|solutionrelative:webapifabian\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|c:\\users\\fcorrea\\source\\respaldo ultimo\\webapifabian\\webapifabian\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|solutionrelative:webapifabian\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|c:\\users\\fcorrea\\source\\respaldo ultimo\\webapifabian\\webapifabian\\webapifabian.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|solutionrelative:webapifabian\\webapifabian.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|c:\\users\\fcorrea\\source\\respaldo ultimo\\webapifabian\\webapifabian\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|solutionrelative:webapifabian\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|c:\\users\\fcorrea\\source\\respaldo ultimo\\webapifabian\\webapifabian\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|solutionrelative:webapifabian\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|c:\\users\\fcorrea\\source\\respaldo ultimo\\webapifabian\\webapifabian\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|solutionrelative:webapifabian\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|c:\\users\\fcorrea\\source\\respaldo ultimo\\webapifabian\\webapifabian\\migrations\\20240620190628_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|solutionrelative:webapifabian\\migrations\\20240620190628_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|c:\\users\\fcorrea\\source\\respaldo ultimo\\webapifabian\\webapifabian\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|solutionrelative:webapifabian\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|c:\\users\\fcorrea\\source\\respaldo ultimo\\webapifabian\\webapifabian\\modelos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|solutionrelative:webapifabian\\modelos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|c:\\users\\fcorrea\\source\\respaldo ultimo\\webapifabian\\webapifabian\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E277D3D8-04FD-44B6-87F3-A85371EC7A10}|WebApiFabian\\WebApiFabian.csproj|solutionrelative:webapifabian\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 182,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e3fb24c2-2e84-3146-a5f8-bc25bbc68f8a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appfabian-e3b4a.json",
+              "DocumentMoniker": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\FireBaseManager\\appfabian-e3b4a.json",
+              "RelativeDocumentMoniker": "FireBaseManager\\appfabian-e3b4a.json",
+              "ToolTip": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\FireBaseManager\\appfabian-e3b4a.json",
+              "RelativeToolTip": "FireBaseManager\\appfabian-e3b4a.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T19:30:57.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFirebaseNotificationsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\FireBaseManager\\Manager\\IFirebaseNotificationsRepository.cs",
+              "RelativeDocumentMoniker": "FireBaseManager\\Manager\\IFirebaseNotificationsRepository.cs",
+              "ToolTip": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\FireBaseManager\\Manager\\IFirebaseNotificationsRepository.cs",
+              "RelativeToolTip": "FireBaseManager\\Manager\\IFirebaseNotificationsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:47:44.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FireBaseManager.csproj",
+              "DocumentMoniker": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\FireBaseManager\\FireBaseManager.csproj",
+              "RelativeDocumentMoniker": "FireBaseManager\\FireBaseManager.csproj",
+              "ToolTip": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\FireBaseManager\\FireBaseManager.csproj",
+              "RelativeToolTip": "FireBaseManager\\FireBaseManager.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T18:36:54.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotificationDto.cs",
+              "DocumentMoniker": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\FireBaseManager\\Dto\\NotificationDto.cs",
+              "RelativeDocumentMoniker": "FireBaseManager\\Dto\\NotificationDto.cs",
+              "ToolTip": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\FireBaseManager\\Dto\\NotificationDto.cs",
+              "RelativeToolTip": "FireBaseManager\\Dto\\NotificationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:35:28.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MessageDto.cs",
+              "DocumentMoniker": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\FireBaseManager\\Dto\\MessageDto.cs",
+              "RelativeDocumentMoniker": "FireBaseManager\\Dto\\MessageDto.cs",
+              "ToolTip": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\FireBaseManager\\Dto\\MessageDto.cs",
+              "RelativeToolTip": "FireBaseManager\\Dto\\MessageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:35:26.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FirebaseNotificationsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\FireBaseManager\\Manager\\FirebaseNotificationsRepository.cs",
+              "RelativeDocumentMoniker": "FireBaseManager\\Manager\\FirebaseNotificationsRepository.cs",
+              "ToolTip": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\FireBaseManager\\Manager\\FirebaseNotificationsRepository.cs",
+              "RelativeToolTip": "FireBaseManager\\Manager\\FirebaseNotificationsRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCMAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:23:13.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "WebApiFabian\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "WebApiFabian\\Controllers\\NotificationsController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:22:45.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApiFabian\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApiFabian\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-28T18:11:29.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutenticacionController.cs",
+              "DocumentMoniker": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\Controllers\\AutenticacionController.cs",
+              "RelativeDocumentMoniker": "WebApiFabian\\Controllers\\AutenticacionController.cs",
+              "ToolTip": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\Controllers\\AutenticacionController.cs",
+              "RelativeToolTip": "WebApiFabian\\Controllers\\AutenticacionController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwBwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:13:55.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "WebApiFabian\\Modelos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\Modelos\\Usuario.cs",
+              "RelativeToolTip": "WebApiFabian\\Modelos\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:08:08.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApiFabian\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApiFabian\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:09:06.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebApiFabian",
+              "DocumentMoniker": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\WebApiFabian.csproj",
+              "RelativeDocumentMoniker": "WebApiFabian\\WebApiFabian.csproj",
+              "ToolTip": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\WebApiFabian.csproj",
+              "RelativeToolTip": "WebApiFabian\\WebApiFabian.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T20:08:43.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehiculoController.cs",
+              "DocumentMoniker": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\Controllers\\VehiculoController.cs",
+              "RelativeDocumentMoniker": "WebApiFabian\\Controllers\\VehiculoController.cs",
+              "ToolTip": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\Controllers\\VehiculoController.cs",
+              "RelativeToolTip": "WebApiFabian\\Controllers\\VehiculoController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:17:39.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApiFabian\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApiFabian\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBZwCgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:06:41.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240620190628_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\Migrations\\20240620190628_Initial.cs",
+              "RelativeDocumentMoniker": "WebApiFabian\\Migrations\\20240620190628_Initial.cs",
+              "ToolTip": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\Migrations\\20240620190628_Initial.cs",
+              "RelativeToolTip": "WebApiFabian\\Migrations\\20240620190628_Initial.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:06:28.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApiFabian\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "WebApiFabian\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:31:56.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\Modelos\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "WebApiFabian\\Modelos\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\Modelos\\Vehiculo.cs",
+              "RelativeToolTip": "WebApiFabian\\Modelos\\Vehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:19:46.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiFabian\\Program.cs",
+              "ToolTip": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\Program.cs",
+              "RelativeToolTip": "WebApiFabian\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:53:44.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApiFabian\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApiFabian\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:47:59.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebApiFabian.csproj",
+              "DocumentMoniker": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\WebApiFabian.csproj",
+              "RelativeDocumentMoniker": "WebApiFabian\\WebApiFabian.csproj",
+              "ToolTip": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\WebApiFabian.csproj",
+              "RelativeToolTip": "WebApiFabian\\WebApiFabian.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T17:47:54.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiFabian\\appsettings.json",
+              "ToolTip": "C:\\Users\\fcorrea\\source\\Respaldo Ultimo\\WebApiFabian\\WebApiFabian\\appsettings.json",
+              "RelativeToolTip": "WebApiFabian\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T17:47:31.815Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
